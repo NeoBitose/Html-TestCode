@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+}
+.card {
+    width: 300px;
+    transition: 0.3s;
+    background-color: #f6f6f6;
+}
+
+.card h4, p {
+    margin: 10px 0px;
+}
